@@ -1,13 +1,13 @@
 {
-  "main.css": "/Simple-React-Message-Board/static/css/main.e1795506.chunk.css",
-  "main.js": "/Simple-React-Message-Board/static/js/main.0f9da2c7.chunk.js",
-  "main.js.map": "/Simple-React-Message-Board/static/js/main.0f9da2c7.chunk.js.map",
-  "static/js/1.1a99b4ce.chunk.js": "/Simple-React-Message-Board/static/js/1.1a99b4ce.chunk.js",
-  "static/js/1.1a99b4ce.chunk.js.map": "/Simple-React-Message-Board/static/js/1.1a99b4ce.chunk.js.map",
-  "runtime~main.js": "/Simple-React-Message-Board/static/js/runtime~main.57385e07.js",
-  "runtime~main.js.map": "/Simple-React-Message-Board/static/js/runtime~main.57385e07.js.map",
-  "static/css/main.e1795506.chunk.css.map": "/Simple-React-Message-Board/static/css/main.e1795506.chunk.css.map",
-  "index.html": "/Simple-React-Message-Board/index.html",
-  "precache-manifest.34c4841e70ad15b63f440d5db55ad30c.js": "/Simple-React-Message-Board/precache-manifest.34c4841e70ad15b63f440d5db55ad30c.js",
-  "service-worker.js": "/Simple-React-Message-Board/service-worker.js"
+  "main.css": "/static/css/main.1e11e4cc.chunk.css",
+  "main.js": "/static/js/main.96dd9787.chunk.js",
+  "main.js.map": "/static/js/main.96dd9787.chunk.js.map",
+  "static/js/1.ca7cd940.chunk.js": "/static/js/1.ca7cd940.chunk.js",
+  "static/js/1.ca7cd940.chunk.js.map": "/static/js/1.ca7cd940.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.1e11e4cc.chunk.css.map": "/static/css/main.1e11e4cc.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.c8e33aa08779b792c6a9da7ba7e73b70.js": "/precache-manifest.c8e33aa08779b792c6a9da7ba7e73b70.js",
+  "service-worker.js": "/service-worker.js"
 }
